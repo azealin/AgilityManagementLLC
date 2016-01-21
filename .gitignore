@@ -1,0 +1,6 @@
+#ignore vagrant files
+/.vagrant
+.vagrant
+/vagrant-files
+Vagrantfile
+vagrant-files
